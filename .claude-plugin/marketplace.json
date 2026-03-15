@@ -1,0 +1,35 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "karellen-skills",
+  "version": "1.0.0",
+  "description": "범용 생산성 스킬 모음 — 시장 분석, 사고 프레임워크, 인프라 도구, 개인 분석",
+  "owner": {
+    "name": "karellen-kim"
+  },
+  "plugins": [
+    {
+      "name": "market-analysis",
+      "description": "시장 분석 & 투자 시그널 스킬 (L0~L3, KR navigator, multi-layer predictor)",
+      "source": "./market-analysis",
+      "category": "productivity"
+    },
+    {
+      "name": "thinking-frameworks",
+      "description": "사고 프레임워크 & 의사결정 스킬 (Munger, Systems thinking, Deep learning method)",
+      "source": "./thinking-frameworks",
+      "category": "productivity"
+    },
+    {
+      "name": "infra-tools",
+      "description": "인프라 운영 도구 (Elasticsearch)",
+      "source": "./infra-tools",
+      "category": "productivity"
+    },
+    {
+      "name": "personal-insight",
+      "description": "개인 분석 & 페르소나 (사주, MER)",
+      "source": "./personal-insight",
+      "category": "productivity"
+    }
+  ]
+}
