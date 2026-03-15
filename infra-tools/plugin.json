@@ -1,0 +1,8 @@
+{
+  "name": "infra-tools",
+  "version": "1.0.0",
+  "description": "인프라 운영 도구 (Elasticsearch)",
+  "skills": [
+    "es-ops"
+  ]
+}

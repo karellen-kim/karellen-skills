@@ -1,0 +1,13 @@
+{
+  "name": "market-analysis",
+  "version": "1.0.0",
+  "description": "시장 분석 & 투자 시그널 스킬 (L0~L3, KR navigator, multi-layer predictor)",
+  "skills": [
+    "l0-smart-money-signals",
+    "l1-market-climate",
+    "l2-capital-flow",
+    "l3-position-engine",
+    "kr-market-navigator",
+    "multi-layer-predictor"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "personal-insight",
+  "version": "1.0.0",
+  "description": "개인 분석 & 페르소나 (사주, MER)",
+  "skills": [
+    "saju-analysis",
+    "mer-persona"
+  ]
+}

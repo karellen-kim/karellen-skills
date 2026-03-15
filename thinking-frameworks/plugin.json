@@ -1,0 +1,10 @@
+{
+  "name": "thinking-frameworks",
+  "version": "1.0.0",
+  "description": "사고 프레임워크 & 의사결정 스킬 (Munger, Systems thinking, Deep learning method)",
+  "skills": [
+    "munger-bias-checker",
+    "systems-thinker-validator",
+    "deep-learning-method"
+  ]
+}
